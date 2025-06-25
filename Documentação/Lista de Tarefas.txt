@@ -1,8 +1,8 @@
 Alta Prioridade
 
+!• Desenvolver estrutura de controles e de inputs especiais
 • Descobrir tutoriais de como fazer um jogo de beat 'em up em Godot
 • Descobrir tutoriais de como fazer um jogo de luta em Godot
-• Desenvolver estrutura de controles e de inputs especiais
 • Achar um template e jogo de beat 'em up em Godot
 • Desenvolver personagens jogáveis
 • Desenvolver inimigos
